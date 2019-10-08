@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Package">Weight of Package</string>
+    <string name="Ounces">In Ounces</string>
+    <string name="BaseCost">BaseCost:</string>
+    <string name="AddedCost">AddedCost:</string>
+    <string name="TotalCost">TotalCost:</string>
+    <string name="BaseNum">$0.00</string>
+    <string name="AddedNum">$0.00</string>
+    <string name="TotalNum">$0.00</string>
+</resources>
