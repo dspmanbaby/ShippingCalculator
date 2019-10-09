@@ -29,7 +29,6 @@ public class ShipItem {
         }
         else if(weight >= ADDITIONAL_WEIGHT) {
             return OVER_COST;
-
         }
         else{
             return 0.0;
